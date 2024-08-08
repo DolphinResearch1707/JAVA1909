@@ -1,0 +1,13 @@
+import
+java.TestReference
+void PassByReference(int a[])
+{}
+a[0]=1;//CHANGE THE REFERENCED ARRAY
+a[0]=4;
+}
+public void init()
+{
+int z()={9,7};//Declare an array with some values
+System.printLn("Changed to" +z[0]+"and"+z[1];
+}
+{
